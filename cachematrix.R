@@ -1,4 +1,4 @@
-setwd('C:/Users/arnavsin/Documents/Coursera-R')
+setwd('C:/Users/omer/Documents/Coursera-R')
 ##
 
 makeCacheMatrix <- function(x = matrix(sample(1:100,9),3,3)) {
